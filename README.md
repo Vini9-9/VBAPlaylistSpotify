@@ -13,7 +13,7 @@ Macro para criar playlist no Spotify de forma automatizada.
 
 ### VBA
 
-* Acessar o 'Microsoft Visual Basic for Applications'(atalho: ALT + F11) pela planilha modelo. 
+* Acessar o 'Microsoft Visual Basic for Applications'(atalho: ALT + F11) pela [planilha modelo](https://github.com/Vini9-9/VBAPlaylistSpotify/blob/main/CriarPlaylistSpotify_Modelo.xlsm?raw=true). 
   * Clicar em Ferramentas > Referências
   * Adicionar a biblioteca do 'Selenium Type Library'
   * ![image](https://user-images.githubusercontent.com/58668142/113525475-8cca6800-958b-11eb-893f-b99640608a0a.png)
